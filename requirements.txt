@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+pandas
+Pillow
+matplotlib
+pyttsx3
